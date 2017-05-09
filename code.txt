@@ -1,0 +1,245 @@
+<html>
+<head>
+<meta charset ="UTF-8">
+<title>Tabs</title>
+
+<link rel = "stylesheet" href ="tabs.css">
+</head>
+<body bgcolor="#E6E6FA">
+<ul class ="tabs">
+<br>
+
+<div>
+<style type = "text/css">
+
+body {
+background-image: url('brick.jpg');
+width: "100%; height: "100%";background-size: 100%; background-repeat: repeat;
+background-postition: 0% 100%;
+}
+
+</div>
+</style>
+
+
+<li>
+	<input type = "radio" name ="tabs" id = "tab-1" checked>
+	<label for ="tab-1"><font size = "5">Home</label></font>
+	<div class ="tab-Content"Height:200px;>
+
+<br><br><br><br><br><br><br>
+
+<center><b><big style ="font-size: 135"><font face = "Brush Script MT"> Cynthia Garcia</font></big></b></center>
+
+<br>
+
+<center><font size = "4.5">"Hiking is a bit like life: <i>The journey only requires you to put one foot in front of the other...again and again and again. And if you allow yourself opportunity to be present throughout the entirety of the trek, you will witness beauty every step of the way, not just at the summit."</i><br> -Unknown </font></center>
+<br><br><br><br><br><br>
+
+<a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"><img src = "linkedin.jpg" width = "30" height ="30"> </a>
+<a href = "https://www.facebook.com/profile.php?id=100015542353472"><img src = "facebook.jpg" width = "30" height ="30"> </a>
+<br><br>
+</li>
+
+
+
+
+
+<li>
+	<input type = "radio" name = "tabs" id = "tab-2">
+	<label for = "tab-2"><font size = "5">About Me</label></font>
+	<div class = "tab-content">
+<br><br><br>
+<img src = "cyn.jpg" width = "220" height = "235" style = "float:left;">
+
+<font size =  "4.5"><p align = "left"> Hello, I am Cynthia! 
+<br><br>
+Thank you for clicking on my page. 
+<br><br>
+I am currently a student at California State University, and pursuing a degree in business administration with a double concentration in accounting and information systems. Although, after graduation, I plan to focus in the information systems field. I currently work at Ross Dress for Less. 
+<br><br>
+I have lived in the Monterey area all my life, and have been able to explore the area pretty well. I have also been able to travel and explore other parts of California too. 
+<br><br>
+I love nature. I like to go hiking in my free time, and you can see some of the places where I have hiked on my Photography page. I am an animal lover. I have volunteered at the SPCA of Monterey County and Meals on Wheels for Monterey Peninsula. I love finding new adventures and hobbies to do. 
+<br><br>
+Keep exploring my website to learn more about me, or contact me at cynthiagarcia840@gmail.com. 
+</font></p>
+
+<br><br><br><br><br><br>
+<a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"><img src = "linkedin.jpg" width = "30" height ="30"> </a>
+<a href = "https://www.facebook.com/profile.php?id=100015542353472"><img src = "facebook.jpg" width = "30" height ="30"> </a>
+<br><br>
+</div>
+</li>
+
+
+
+
+<li>
+          <input type="radio" name="tabs" id="tab-3">
+          <label for = "tab-3"><font size ="5"> Professional Background</label></font>
+         <div class="tab-content">
+<br><br><br>
+<center><font size = "5"><b>Education </font></b></center><br>
+<table border="2" style="width:100%" bgcolor = "white">
+<tr>
+<th align="center"> Year </th> 
+<th align="center"> Degree </th> 
+<th align="center"> School </th> 
+<th align="center"> Major </th> 
+<th alight="center"> Conentration </th>
+<th alight="center"> Activities </th>
+<th alight="center"> Honors </th>
+</tr>
+
+<tr>
+<td>2015</td>
+<td> A.A. </td>
+<td> <a href = "http://www.mpc.edu/">Monterey Peninsula College </a><br> Monterey, CA </td>
+<td>Business Administration</td>
+<td> None </td>
+<td> TRiO <br> Spring 2014 - Spring 2015</td>
+<td> None </td></tr>
+
+<tr>
+<td>In-Progress </td>
+<td>B.A. </td>
+<td><a href = "https://csumb.edu/"> CSU Monterey Bay</a><br> Seaside, CA</td>
+<td> Business Administration</td>
+<td> Accounting <br> Information Systems</td>
+<td> TRiO <br> Fall 2015 - Present</td>
+<td> Dean's List Fall 2015 <br> Dean's List Spring 2016 </td> </tr></table>
+
+<br><Br><br>
+
+<center><font size = "5"><b>Work </font></center></b><br>
+<p style="float: left; font-size: 11pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "target.jpg" width = "325" height = "200"><br><br>
+I worked at Target in summer of 2015, where I was a stock associate. </p>
+
+<p style="float: left; font-size: 11pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "Ross.jpg" width = "325" height = "200"><br><br>
+I recently got hired at Ross Dress for Less as a stock associate in March 2017. </p>
+
+<br><br><br><br><br><br><br><br>
+<center><font size ="5"><b>Volunteer</font></center></b><br>
+
+<p style="float: left; font-size: 11pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "SPCA.jpg" width = "325" height = "200"><br><br>
+I volunteered at The SPCA of Monterey County in Fall of 2013. I took care of the dogs by walking and playing with them. </p>
+
+<p style="float: left; font-size: 11pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "meals.jpg" width = "325" height = "200"><br><br>
+I started volunteering at Meals on Wheels of Monterey Peninsula in January 2016 until February 2017. I delivered meals to several homebound clients, 
+and established relationships with the clients and volunteers. </p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center><font size ="5"><b>Skills</font></center></b><br>
+<center>Here are some skills and software that I have learned and excelled in.</center><br>
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "html.jpg" width = "300" height = "200"></p><br>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "excel.jpg" width = "300" height = "200"></p><br>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "powerpt.jpg" width = "300" height = "200"></p><br>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "word.jpg" width = "300" height = "200"></p>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center><font size ="5"><b>Certificates</font></center></b><br><br>
+<center>I received a certificate for completing the Volunteer Income Tax Assistance (VITA) training that collaborates with United Way.</center><br><br>
+<center><img src = "vita.jpg" width = "325" height = "200"></center><br><br><br>
+ 
+<br><br><br>
+<a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"><img src = "linkedin.jpg" width = "30" height ="30"> </a>
+<a href = "https://www.facebook.com/profile.php?id=100015542353472"><img src = "facebook.jpg" width = "30" height ="30"> </a>
+<br><br>
+</div>
+</li>
+
+
+
+
+
+
+ <li>
+          <input type="radio" name="tabs" id="tab-4">
+          <label for = "tab-4"><font size = "5">Photography</label></font>
+	  <div class="tab-content">
+<br><br><br>
+<center><font size = "4">Below are some of the places I have been fortune enough to been able to visit and hike in and around the Monterey Bay area. I have been lucky to have hiked at 
+14 different places in the past two years. Underneath each picture are links to the parks home page. On the page, 
+you will find information about each park such as the park's hours, fees, directions, trails, any weather alerts, and more exciting details about the park. 
+<br><br>"Get lost in nature and you will find yourself." </center></font><br>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "bigsur.jpg" width ="400" height = "250"><br><br>
+<font size = "4"><a href = "http://www.bigsurcalifornia.org/">Big Sur</a><br> Big Sur, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "forest.jpg" width = "400" height = "250"> <br><br>
+<font size = "4"><a href = "https://www.parks.ca.gov/?page_id=666">The Forest of Nisene Marks State Park </a><br>Aptos, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "pointlobos.jpg" width = "400" height = "250"><br><br>
+<font size = "4"><a href = "http://www.parks.ca.gov/?page_id=571">Point Lobos State Natural Reserve</a><br>Carmel-by-the-Sea, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "byrne.jpg" width = "400" Height = "250"><br><br>
+<font size = "4"><a href = "http://www.landtrustsantacruz.org/category/protected-lands/byrne-milliron-forest/">Byrne-Milliron Forest</a> <br> Corralitos, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "henrycowell.jpg" width ="400" height = "250"><br><br>
+<font size = "4"><a href = "https://www.parks.ca.gov/?page_id=546"> Henry Cowell Redwoods State Park</a><br> Felton, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "jacks.jpg" width = "400" height = "250"> <br><br>
+<font size = "4"><a href = "https://www.co.monterey.ca.us/parks/jackspeak.html">Jack's Peak Park</a> <Br> Monterey, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><img src = "garrapata.jpg" width ="400" height = "250"><br><br>
+<font size = "4"><a href = "http://www.parks.ca.gov/?page_id=579"> Garrapata State Park</a><br> Carmel-by-the-Sea, CA</font></p>
+
+<p style="float: left; font-size: 9pt; text-align: center; width: 40%; margin-right: 1%; 
+margin-bottom: 0.5em;"><img src = "garland.jpg" width = "400" height = "250"> <br><br>
+<font size = "4"><a href = "http://www.mprpd.org/garland-ranch-regional-park/">Garland Ranch Regional Park</a> <Br> Carmel Valley, CA<br><br><Br><br></font></p>
+
+<p style="float: left; font-size: 9pt; text-align: left; width: 40%; margin-left: 4%; margin-right: 8%; 
+margin-bottom: 0.5em;"><a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"><img src = "linkedin.jpg" width = "30" height ="30"> </a>
+<a href = "https://www.facebook.com/profile.php?id=100015542353472"><img src = "facebook.jpg" width = "30" height ="30"> </a>
+<br><br>
+</div>
+</li>
+
+
+
+
+
+
+ <li>
+        <input type="radio" name="tabs" id="tab-5">
+        <label for = "tab-5"><font size ="5">Contacts</label></font>
+	<div class="tab-content">
+<br><br><br>
+
+<font size = "4.5">Hello and Welcome to my contact page. On this page, I will provide you with the information to reach me. I have several ways I can be contacted. I would love to answer any questions you may have about my website. More information about myself, work experience, educational background, and skills can be found on my<a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"> LinkedIn </a>page as well as my Professional Background page. 
+<br><br>
+I can also be reached through email at cynthiagarcia840@gmail.com or on <a href = "https://www.facebook.com/profile.php?id=100015542353472">Facebook</a>. I will usually respond in a timely manner. However, please give me one to two business days to reply to any concerns or questions you may have. I am a very easy person to talk to and will answer all of your questions to the best of my abilities. 
+<br><br>
+I would love if you could provide me any feedback about my website. If there is something you feel that would help you navigate through this website more easily, please let me know. Your opinions are highly appreciated and welcomed. I hope you have enjoyed exploring my site. Thank you for taking the time to visit. 
+</font>
+<br><br><br><br><br><br>
+<a href = "https://www.linkedin.com/in/cynthia-garcia-36917510a/"><img src = "linkedin.jpg" width = "30" height ="30"> </a>
+<a href = "https://www.facebook.com/profile.php?id=100015542353472"><img src = "facebook.jpg" width = "30" height ="30"> </a>
+<br><br>
+</div>
+ </li>
+</ul>
+
+
+</body>
+
+</html>
